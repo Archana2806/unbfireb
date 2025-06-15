@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "532845918846",
+    "project_id": "unb-fireb",
+    "storage_bucket": "unb-fireb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532845918846:android:6aebefdecaf179f44d762f",
+        "android_client_info": {
+          "package_name": "com.example.unb_fireb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfdn3pViN59dj6WCFCFS8Z6GPS66pIM0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
