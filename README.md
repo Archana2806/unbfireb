@@ -12,11 +12,8 @@ This application allows users to sign up and log in using email and password aut
 
 ## Screenshots
 
-### Home Screen
-![Home Screen](assets/images/Home.jpg)
-
-### Sign In Screen
-![Sign In Screen](assets/images/Signin.jpg)
-
-### Sign Up Screen
-![Sign Up Screen](assets/images/Signup.jpg)
+<div style="display: flex; gap: 16px;">
+  <img src="assets/images/Home.jpg" alt="Home Screen" width="250"/>
+  <img src="assets/images/Signin.jpg" alt="Sign In Screen" width="250"/>
+  <img src="assets/images/Signup.jpg" alt="Sign Up Screen" width="250"/>
+</div>
